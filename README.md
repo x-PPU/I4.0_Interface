@@ -5,10 +5,7 @@ In this repository you will be able to find Industry 4.0 interface middleware im
 ## Citation
 If you use the content of this repository for your research, please cite the following document in your publications:
 
-
-1. [Paper](http://mediatum.ub.tum.de/1350686?show_id=1375439&style=full_text)
-
-- Plain text Citation: 
+- [Plain text Citation:] (http://mediatum.ub.tum.de/1350686?show_id=1375439&style=full_text)
 ```
 S. Bougouffa, K. Meßmer, S. Cha, E. Trunzer and B. Vogel-Heuser. "Industry 4.0 Interface for Dynamic Reconfiguration of an Open Lab Size Automated Production System to Allow Remote Community Experiments," in IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), IEEE, Dec. 2017, pp. 2058-2062.
 ```
